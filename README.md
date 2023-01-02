@@ -7,7 +7,7 @@ For each pixel that belongs to the plane, it's position is finding.
 
 ## Test data
 
-In comparison, three **PNG** images with a resolution of **640x480** were parsed, *planes_example_small.png* contains **27%** of the plane pixels from the total number, *planes_example_medium.png* contains **52%**, *planes_example_big.png* contains **81%**.
+In comparison, three **PNG** images with a resolution of **640x480** were parsed, ***planes_example_small.png*** contains **27%** of the plane pixels from the total number, ***planes_example_medium.png*** contains **52%**, ***planes_example_big.png*** contains **81%**.
 
 These three **PNG** images were converted into **JPG** format and then they were also parsed.
 
@@ -23,7 +23,7 @@ OS: Windows 10 64-bit
 
 ## Results of 10000 measurements
 
-### Parsing of *planes_example_small.png*
+### Parsing of ***planes_example_small.png***
 
 |№|Library|Average time (millis)|Standard deviation|
 |-|--------------|-----|-----|
@@ -32,7 +32,7 @@ OS: Windows 10 64-bit
 |3|Scrimage|25.49|17.09|
 |4|OpenImaj|27.12|11.83|
 
-### Parsing of *planes_example_medium.png*
+### Parsing of ***planes_example_medium.png***
 
 |№|Library|Average time (millis)|Standard deviation|
 |-|--------------|-----|-----|
@@ -41,7 +41,7 @@ OS: Windows 10 64-bit
 |3|Scrimage|27.10|14.48|
 |4|OpenImaj|30.06|2.44|
 
-### Parsing of *planes_example_big.png*
+### Parsing of ***planes_example_big.png***
 
 |№|Library|Average time (millis)|Standard deviation|
 |-|--------------|-----|-----|
@@ -50,7 +50,7 @@ OS: Windows 10 64-bit
 |3|Scrimage|28.66|15.90|
 |4|OpenImaj|32.28|3.48|
 
-### Parsing of *planes_example_small.jpg*
+### Parsing of ***planes_example_small.jpg***
 
 |№|Library|Average time (millis)|Standard deviation|
 |-|--------------|-----|-----|
@@ -59,7 +59,7 @@ OS: Windows 10 64-bit
 |3|Scrimage|24.48|15.61|
 |4|OpenImaj|28.60|2.20|
 
-### Parsing of *planes_example_medium.jpg*
+### Parsing of ***planes_example_medium.jpg***
 
 |№|Library|Average time (millis)|Standard deviation|
 |-|--------------|-----|-----|
@@ -68,7 +68,7 @@ OS: Windows 10 64-bit
 |3|Scrimage|26.68|14.07|
 |4|OpenImaj|32.40|4.73|
 
-### Parsing of *planes_example_big.jpg*
+### Parsing of ***planes_example_big.jpg***
 
 |№|Library|Average time (millis)|Standard deviation|
 |-|--------------|-----|-----|
