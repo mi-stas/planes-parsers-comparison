@@ -21,7 +21,7 @@ Storage: 256GB SSD, 1TB HDD
 
 OS: Windows 10 64-bit
 
-## Results of 10000 measurements
+## Results of 10000 measurements for each image
 
 ### Parsing of ***planes_example_small.png***
 
